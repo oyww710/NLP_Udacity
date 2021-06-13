@@ -5,3 +5,5 @@
 [Regular Expressions in Python](https://docs.python.org/3/library/re.html)
 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+[nltk.tokenize package](http://www.nltk.org/api/nltk.tokenize.html)
