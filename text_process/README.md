@@ -7,3 +7,5 @@
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [nltk.tokenize package](http://www.nltk.org/api/nltk.tokenize.html)
+
+![image](https://user-images.githubusercontent.com/23666146/121821688-583ff000-cc4f-11eb-9a51-f1bdb31e1591.png)
