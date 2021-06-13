@@ -17,3 +17,7 @@
 ![image](https://user-images.githubusercontent.com/23666146/121821749-dd2b0980-cc4f-11eb-835c-5365826e3eeb.png)
 
 ![image](https://user-images.githubusercontent.com/23666146/121821766-021f7c80-cc50-11eb-8cf0-2958e79161d2.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121821795-2d09d080-cc50-11eb-8239-d2f378c4560f.png)
+
+Lemm first then Stem
