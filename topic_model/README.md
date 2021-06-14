@@ -25,6 +25,10 @@
 
 ## Dirichlet Distributions
 
+![image](https://user-images.githubusercontent.com/23666146/121849416-260aae80-cca0-11eb-9606-39fb1e2f5eda.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121849653-741fb200-cca0-11eb-9398-6cc7927365ee.png)
+
 
 ## LDA 
 
