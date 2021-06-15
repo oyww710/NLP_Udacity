@@ -50,3 +50,6 @@ t-sne good for embedding
 
 ![image](https://user-images.githubusercontent.com/23666146/121995183-63804200-cd5b-11eb-95f8-25cebf56b772.png)
 
+Reference
+
+[Chris McCormick](https://mccormickml.com/)
