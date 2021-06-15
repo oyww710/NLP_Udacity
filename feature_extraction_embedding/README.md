@@ -25,3 +25,28 @@
 ## t-sne
 
 t-sne good for embedding
+
+## Word2Vec ski-gram-model
+
+![image](https://user-images.githubusercontent.com/23666146/121990809-421b5800-cd53-11eb-9770-28f15678808b.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121990892-6b3be880-cd53-11eb-932f-65c4748b2e75.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121991113-e0a7b900-cd53-11eb-9eb7-78361335b741.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121991579-cb7f5a00-cd54-11eb-8093-54b228bcb035.png)
+
+### Sampling Rate
+
+![image](https://user-images.githubusercontent.com/23666146/121991681-097c7e00-cd55-11eb-8d66-3e1829c89f1f.png)
+
+![image](https://user-images.githubusercontent.com/23666146/121991858-53fdfa80-cd55-11eb-911e-523f55b7e09e.png)
+
+### Negative Sampling
+
+![image](https://user-images.githubusercontent.com/23666146/121994365-00da7680-cd5a-11eb-9827-03748b490053.png)
+
+### Select negative samples
+
+![image](https://user-images.githubusercontent.com/23666146/121995183-63804200-cd5b-11eb-95f8-25cebf56b772.png)
+
